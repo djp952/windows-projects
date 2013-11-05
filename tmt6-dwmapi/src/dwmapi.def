@@ -1,0 +1,3 @@
+LIBRARY dwmapi
+EXPORTS
+	DwmIsCompositionEnabled @144
